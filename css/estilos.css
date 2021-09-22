@@ -4,8 +4,15 @@ p {
     font-family: "Arial";
 }
 .policia{
-
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: blue;
-    background-color: aqua;
+    height: 1px;
+    margin:     auto;
+  background: gold;
+  width:      66%;;
+    content: normal;
+    padding: 20px,0%;
+    margin: 10px;
 }
