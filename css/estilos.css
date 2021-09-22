@@ -15,4 +15,13 @@ p {
     content: normal;
     padding: 20px,0%;
     margin: 10px;
+    background-color: aqua;
+}
+
+#cabecera{
+    text-align: center;
+    background-color: rgb(60, 255, 0);
+    box-shadow:chocolate;
+    float: inline-end;
+
 }
