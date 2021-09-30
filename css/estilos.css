@@ -30,3 +30,8 @@ p {
     width: 1px;
     height: 1px;
 }
+
+.footer-h4{
+    background-color: blueviolet;
+    text-align: center;
+}
