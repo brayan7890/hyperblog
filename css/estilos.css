@@ -46,3 +46,8 @@ p {
     background-color: yellow;
     box-shadow: 10px 5px 5px black;
 }
+
+.footer-h4 {
+    background-color: blueviolet;
+    text-align: center;
+}
