@@ -6,3 +6,4 @@ Base de Datos Mysql SQL server
 Maquetadores y estilos HTML y CSS
 Bachiller Ing de Sistemas
 Master 1
+Master 2
